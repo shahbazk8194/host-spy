@@ -1,2 +1,2 @@
 # host-spy
-Simple API to provide statistics and display information on a linux machine
+Simple API that provides statistics and display information on a linux machine
